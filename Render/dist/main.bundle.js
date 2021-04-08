@@ -1,0 +1,1 @@
+(()=>{const e=document.createElement("h1");e.textContent="It's cool!!",document.querySelector("#root").append(e)})();
